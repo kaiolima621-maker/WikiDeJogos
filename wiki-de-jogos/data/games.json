@@ -1,0 +1,747 @@
+{
+  "eras": [
+    {
+      "id": "primordios",
+      "nome": "Primórdios",
+      "anos": "1947–1971",
+      "titulo": "Jogos nascem em laboratórios",
+      "resumo": "Cientistas e estudantes criam os primeiros jogos em osciloscópios, mainframes e minicomputadores. Tennis for Two (1958) e Spacewar! (1962) abrem caminho. Em 1966, Ralph Baer imagina jogar na TV e, em 1968, termina o protótipo “Brown Box”.",
+      "console": "Brown Box (protótipo de Ralph Baer)",
+      "icone": "tv",
+      "imagem": ""
+    },
+    {
+      "id": "primeira",
+      "nome": "1ª geração",
+      "anos": "1972–1977",
+      "titulo": "Pong e os primeiros consoles",
+      "resumo": "O Magnavox Odyssey (1972) é o primeiro console doméstico. Pong, da Atari, estoura nos arcades e vira febre. Os clones lotam o mercado e, em 1978, as vendas dos consoles dedicados despencam.",
+      "console": "Magnavox Odyssey",
+      "icone": "console",
+      "imagem": ""
+    },
+    {
+      "id": "segunda",
+      "nome": "2ª geração",
+      "anos": "1976–1983",
+      "titulo": "Cartuchos e era de ouro dos arcades",
+      "resumo": "Microprocessadores baratos trazem os cartuchos: Fairchild Channel F (1976), Atari VCS (1977), Intellivision e ColecoVision. Os arcades vivem sua era de ouro (1978–1982) até a crise dos videogames de 1983.",
+      "console": "Atari VCS (Atari 2600)",
+      "icone": "cartucho",
+      "imagem": ""
+    },
+    {
+      "id": "terceira",
+      "nome": "3ª geração",
+      "anos": "1983–1989",
+      "titulo": "A Nintendo reergue o mercado",
+      "resumo": "Depois da crise, o Famicom (1983) vira sucesso no Japão e o NES chega aos EUA em 1985. A Nintendo controla a publicação de jogos e cobra licença de terceiros. Nascem Mario, Zelda e Metroid. A Sega responde com o Master System.",
+      "console": "Nintendo Entertainment System (NES)",
+      "icone": "gamepad",
+      "imagem": ""
+    },
+    {
+      "id": "quarta",
+      "nome": "4ª geração",
+      "anos": "1987–1993",
+      "titulo": "A guerra dos bits",
+      "resumo": "PC Engine, Mega Drive/Genesis e Super Nintendo disputam o mercado com o marketing dos “16 bits”. A Sega ganha terreno em 1991 com Sonic. O Game Boy (1989) transforma os portáteis em fenômeno.",
+      "console": "Sega Mega Drive / Genesis",
+      "icone": "portatil",
+      "imagem": ""
+    },
+    {
+      "id": "quinta",
+      "nome": "5ª geração",
+      "anos": "1993–1998",
+      "titulo": "3D e CD-ROM",
+      "resumo": "O 3D poligonal em tempo real e o CD-ROM mudam tudo. O PlayStation (1994) passa Nintendo e Sega. O Nintendo 64 (1996) aposta no cartucho e no 3D. Nos PCs, o gênero de tiro em primeira pessoa decola.",
+      "console": "Sony PlayStation",
+      "icone": "disco",
+      "imagem": ""
+    },
+    {
+      "id": "sexta",
+      "nome": "6ª geração",
+      "anos": "1998–2005",
+      "titulo": "DVD, internet e a chegada da Microsoft",
+      "resumo": "Dreamcast (1998), PlayStation 2 (2000), GameCube e Xbox (2001). O PS2 virou o console doméstico mais vendido de todos os tempos, com mais de 155 milhões de unidades. Os jogos online ganham força.",
+      "console": "Sony PlayStation 2",
+      "icone": "console",
+      "imagem": ""
+    },
+    {
+      "id": "setima",
+      "nome": "7ª geração",
+      "anos": "2005–2012",
+      "titulo": "Alta definição e controles de movimento",
+      "resumo": "Xbox 360 (2005), PS3 e Wii (2006). Xbox Live e PlayStation Network levam compras e partidas online aos consoles. O Wii aposta em controles de movimento e atrai quem nunca jogava. Os smartphones começam a mudar o mercado.",
+      "console": "Nintendo Wii",
+      "icone": "movimento",
+      "imagem": ""
+    },
+    {
+      "id": "oitava",
+      "nome": "8ª geração",
+      "anos": "2012–2019",
+      "titulo": "Híbridos, digital e multiplataforma",
+      "resumo": "Wii U (2012), PlayStation 4 e Xbox One (2013). O Nintendo Switch (2017) funciona como portátil e como console de TV. Surgem o jogo multiplataforma, o cloud gaming e a realidade virtual para o consumidor.",
+      "console": "Nintendo Switch",
+      "icone": "portatil",
+      "imagem": ""
+    },
+    {
+      "id": "nona",
+      "nome": "9ª geração",
+      "anos": "2020–hoje",
+      "titulo": "Ray tracing e SSD",
+      "resumo": "Xbox Series X/S e PlayStation 5 chegam em novembro de 2020 com ray tracing em tempo real e SSDs que quase eliminam as telas de carregamento. O metaverso e os jogos como serviço ganham destaque.",
+      "console": "PlayStation 5",
+      "icone": "console",
+      "imagem": ""
+    }
+  ],
+  "jogos": [
+    {
+      "id": "tennis-for-two",
+      "titulo": "Tennis for Two",
+      "ano": 1958,
+      "era": "primordios",
+      "genero": "Esporte",
+      "empresa": "William Higinbotham (Laboratório Nacional de Brookhaven)",
+      "sinopse": "Criado por William Higinbotham, exibia uma partida de tênis simplificada em um osciloscópio. É considerado um dos primeiros jogos feitos para entretenimento, e não para pesquisa.",
+      "mecanicas": [
+        "Partida de tênis vista de lado",
+        "Imagem em um osciloscópio, sem tela de TV",
+        "Um dos primeiros jogos feitos só para diversão"
+      ],
+      "curiosidade": "No começo, “videogame” era só o jogo que enviava imagem para uma tela, como um osciloscópio ou um tubo de raios catódicos.",
+      "tags": ["Esporte", "Anos50", "Laboratório"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "osciloscopio",
+      "imagem": ""
+    },
+    {
+      "id": "spacewar",
+      "titulo": "Spacewar!",
+      "ano": 1962,
+      "era": "primordios",
+      "genero": "Combate espacial",
+      "empresa": "Steve Russell e colegas (MIT)",
+      "sinopse": "Duelo de naves no minicomputador PDP-1, criado no MIT. Virou o primeiro videogame amplamente compartilhado e circulou pelas universidades que tinham o equipamento.",
+      "mecanicas": [
+        "Duelo de naves em tempo real",
+        "Gravidade simulada nas versões modificadas",
+        "Campo estelar em movimento e controles externos"
+      ],
+      "curiosidade": "Nolan Bushnell e Ted Dabney quiseram rodar Spacewar! em uma máquina de moedas, e dessa ideia nasceu o Computer Space.",
+      "tags": ["Espaço", "Anos60", "Universidade"],
+      "pioneiro": true,
+      "frase": "O primeiro videogame amplamente compartilhado nasceu nos laboratórios do MIT.",
+      "icone": "foguete",
+      "imagem": ""
+    },
+    {
+      "id": "computer-space",
+      "titulo": "Computer Space",
+      "ano": 1971,
+      "era": "primordios",
+      "genero": "Combate espacial",
+      "empresa": "Nutting Associates (Nolan Bushnell e Ted Dabney)",
+      "sinopse": "O primeiro videogame de arcade: uma versão operada por moedas inspirada em Spacewar!, criada por Nolan Bushnell e Ted Dabney com a Nutting Associates.",
+      "mecanicas": [
+        "Duelo espacial em formato de fliperama",
+        "Operado por moedas",
+        "Abriu caminho para a criação da Atari"
+      ],
+      "curiosidade": "Depois do Computer Space, Bushnell e Dabney seguiram seu próprio caminho e fundaram a Atari.",
+      "tags": ["Arcade", "Anos70", "Espaço"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "arcade",
+      "imagem": ""
+    },
+    {
+      "id": "pong",
+      "titulo": "Pong",
+      "ano": 1972,
+      "era": "primeira",
+      "genero": "Esporte",
+      "empresa": "Atari (Allan Alcorn)",
+      "sinopse": "Versão arcade de tênis de mesa feita por Allan Alcorn para a Atari, inspirada no jogo do Odyssey. Lançado no fim de 1972, foi o primeiro videogame de arcade de sucesso.",
+      "mecanicas": [
+        "Raquetes e bola em um jogo de rebatidas",
+        "Controles simples de bola e raquete",
+        "Circuitos TTL discretos, sem microprocessador"
+      ],
+      "curiosidade": "A Magnavox processou fabricantes por violar as patentes de Ralph Baer e ganhou cerca de US$ 100 milhões em indenizações.",
+      "tags": ["Arcade", "Anos70", "Esporte"],
+      "pioneiro": true,
+      "frase": "O primeiro grande sucesso dos videogames de arcade.",
+      "icone": "arcade",
+      "imagem": ""
+    },
+    {
+      "id": "colossal-cave-adventure",
+      "titulo": "Colossal Cave Adventure",
+      "ano": 1976,
+      "era": "primeira",
+      "genero": "Aventura em texto",
+      "empresa": "Will Crowther (expandido por Don Woods)",
+      "sinopse": "Aventura em texto na qual o jogador explora uma caverna digitando comandos. Will Crowther juntou sua paixão por espeleologia com ideias de Dungeons & Dragons. Don Woods o expandiu em 1977.",
+      "mecanicas": [
+        "Exploração por comandos de texto",
+        "Quebra-cabeças com inventário",
+        "Inspirou Zork e o Adventure do Atari"
+      ],
+      "curiosidade": "Estabeleceu um gênero inteiro de exploração e quebra-cabeças e passou para os computadores pessoais no fim dos anos 1970.",
+      "tags": ["Aventura", "Anos70", "Texto"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "terminal",
+      "imagem": ""
+    },
+    {
+      "id": "space-invaders",
+      "titulo": "Space Invaders",
+      "ano": 1978,
+      "era": "segunda",
+      "genero": "Tiro",
+      "empresa": "Taito (Tomohiro Nishikado)",
+      "sinopse": "O jogador defende a Terra de ondas de invasores que atiram de volta. Sucesso imediato no Japão, deu início à era de ouro dos arcades (1978–1982).",
+      "mecanicas": [
+        "Vidas no lugar de cronômetro",
+        "Vidas extras ao acumular pontos",
+        "Pontuação máxima registrada na máquina",
+        "Ondas de alvos e música de fundo"
+      ],
+      "curiosidade": "A versão para o Atari VCS (1980) quadruplicou as vendas do console e foi o primeiro jogo a vender mais de um milhão de cópias.",
+      "tags": ["Arcade", "Anos70", "Tiro", "EraDeOuro"],
+      "pioneiro": true,
+      "frase": "Vidas, recorde e ondas de inimigos: a base do arcade moderno.",
+      "icone": "foguete",
+      "imagem": ""
+    },
+    {
+      "id": "pac-man",
+      "titulo": "Pac-Man",
+      "ano": 1980,
+      "era": "segunda",
+      "genero": "Labirinto",
+      "empresa": "Namco",
+      "sinopse": "O jogador percorre um labirinto comendo pontos e fugindo de fantasmas. Virou ícone da cultura pop e atraiu mais jogadoras para os fliperamas.",
+      "mecanicas": [
+        "Navegar por um labirinto",
+        "Personagem fácil de reconhecer",
+        "Alternativa ao jogo de tiro"
+      ],
+      "curiosidade": "A febre de Pac-Man ajudou as receitas dos jogos de moedas nos EUA a chegarem a US$ 4,9 bilhões em 1981.",
+      "tags": ["Arcade", "Anos80", "Labirinto", "Mascote"],
+      "pioneiro": true,
+      "frase": "Personagem como estrela: nasce o mascote dos videogames.",
+      "icone": "labirinto",
+      "imagem": ""
+    },
+    {
+      "id": "adventure-atari",
+      "titulo": "Adventure (Atari)",
+      "ano": 1980,
+      "era": "segunda",
+      "genero": "Aventura de ação",
+      "empresa": "Atari (Warren Robinett)",
+      "sinopse": "Inspirado em Colossal Cave Adventure, leva a aventura para os gráficos do Atari VCS. O jogador explora um mundo de fantasia coletando itens.",
+      "mecanicas": [
+        "Aventura gráfica em cartucho",
+        "Exploração com itens",
+        "Primeiro jogo de fantasia em cartucho"
+      ],
+      "curiosidade": "Warren Robinett escondeu o próprio nome no jogo, criando um dos primeiros easter eggs, porque a Atari não creditava seus programadores.",
+      "tags": ["Aventura", "Anos80", "EasterEgg", "Atari"],
+      "pioneiro": true,
+      "frase": "Um dos primeiros easter eggs e a primeira fantasia em cartucho.",
+      "icone": "cartucho",
+      "imagem": ""
+    },
+    {
+      "id": "donkey-kong",
+      "titulo": "Donkey Kong",
+      "ano": 1981,
+      "era": "segunda",
+      "genero": "Plataforma",
+      "empresa": "Nintendo",
+      "sinopse": "Clássico de arcade em que o jogador sobe plataformas desviando de obstáculos. É também a estreia de Mario.",
+      "mecanicas": [
+        "Percorrer uma série de plataformas",
+        "Narrativa e personagens no arcade",
+        "Estreia de Mario"
+      ],
+      "curiosidade": "A Coleco incluiu uma versão licenciada no pacote do ColecoVision, em 1982.",
+      "tags": ["Arcade", "Anos80", "Plataforma", "Nintendo"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "arcade",
+      "imagem": ""
+    },
+    {
+      "id": "pitfall",
+      "titulo": "Pitfall!",
+      "ano": 1982,
+      "era": "segunda",
+      "genero": "Plataforma",
+      "empresa": "Activision",
+      "sinopse": "Um dos jogos de terceiros de maior sucesso do Atari VCS. O herói atravessa a selva em rolagem lateral, saltando obstáculos.",
+      "mecanicas": [
+        "Rolagem lateral",
+        "Salto sobre obstáculos",
+        "Base dos jogos de plataforma"
+      ],
+      "curiosidade": "A Activision foi fundada em 1979 por quatro ex-programadores da Atari e abriu caminho para as desenvolvedoras terceirizadas.",
+      "tags": ["Plataforma", "Anos80", "Atari"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "plataforma",
+      "imagem": ""
+    },
+    {
+      "id": "super-mario-bros",
+      "titulo": "Super Mario Bros.",
+      "ano": 1985,
+      "era": "terceira",
+      "genero": "Plataforma",
+      "empresa": "Nintendo",
+      "sinopse": "Lançado em 1985, deu início à franquia Super Mario e fez de Mario o mascote da Nintendo.",
+      "mecanicas": [
+        "Plataforma de rolagem lateral",
+        "Mascote como rosto da marca",
+        "Início de uma franquia duradoura"
+      ],
+      "curiosidade": "O NES revitalizou o mercado dos EUA: em 1989 ele já tinha voltado a US$ 5 bilhões.",
+      "tags": ["Plataforma", "Anos80", "Nintendo", "NES"],
+      "pioneiro": true,
+      "frase": "Mario vira mascote e nasce a franquia que definiu a Nintendo.",
+      "icone": "plataforma",
+      "imagem": ""
+    },
+    {
+      "id": "zelda",
+      "titulo": "The Legend of Zelda",
+      "ano": 1986,
+      "era": "terceira",
+      "genero": "Aventura",
+      "empresa": "Nintendo",
+      "sinopse": "Aventura de fantasia lançada em 1986 que deu origem a uma das principais franquias da Nintendo.",
+      "mecanicas": [
+        "Exploração de um mundo de fantasia",
+        "Itens que abrem novos caminhos",
+        "Início de uma franquia duradoura"
+      ],
+      "curiosidade": "Zelda e Metroid, ambos de 1986, deram origem a duas das maiores franquias da Nintendo.",
+      "tags": ["Aventura", "Anos80", "Nintendo", "Fantasia"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "espada",
+      "imagem": ""
+    },
+    {
+      "id": "tetris",
+      "titulo": "Tetris (Game Boy)",
+      "ano": 1989,
+      "era": "quarta",
+      "genero": "Quebra-cabeça",
+      "empresa": "Alexey Pajitnov (criação) · Nintendo (versão Game Boy)",
+      "sinopse": "O Game Boy chegou em 1989 com Tetris incluído. O jogo atraiu quem normalmente não jogaria videogame e virou um dos mais vendidos de todos os tempos.",
+      "mecanicas": [
+        "Encaixar peças que caem para completar linhas",
+        "Regras simples e partidas rápidas",
+        "Ideal para jogar em um portátil"
+      ],
+      "curiosidade": "O Game Boy foi o primeiro grande portátil desde o Microvision, lançado dez anos antes.",
+      "tags": ["Quebra-cabeça", "Anos80", "Portátil", "GameBoy"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "quebra-cabeca",
+      "imagem": ""
+    },
+    {
+      "id": "sonic",
+      "titulo": "Sonic the Hedgehog",
+      "ano": 1991,
+      "era": "quarta",
+      "genero": "Plataforma",
+      "empresa": "Sega (Sonic Team)",
+      "sinopse": "Vendido junto com o Mega Drive/Genesis, apresentou o novo mascote da Sega em plena guerra de consoles contra a Nintendo.",
+      "mecanicas": [
+        "Plataforma de alta velocidade",
+        "Mascote para rivalizar com Mario",
+        "Vendido junto com o console"
+      ],
+      "curiosidade": "Com Sonic no pacote e preço menor, o Genesis passou a ganhar do NES em 1991.",
+      "tags": ["Plataforma", "Anos90", "Sega", "Mascote"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "raio",
+      "imagem": ""
+    },
+    {
+      "id": "street-fighter-ii",
+      "titulo": "Street Fighter II",
+      "ano": 1991,
+      "era": "quarta",
+      "genero": "Luta",
+      "empresa": "Capcom",
+      "sinopse": "Lançado nos arcades em 1991, popularizou os jogos de luta competitivos de um contra um e gerou uma onda de sucessores, como Mortal Kombat.",
+      "mecanicas": [
+        "Duelos de um contra um",
+        "Cada lutador com golpes próprios",
+        "Competição cara a cara nos fliperamas"
+      ],
+      "curiosidade": "Street Fighter II já organizava competições entre jogadores antes de os esports profissionais surgirem, por volta de 2000.",
+      "tags": ["Luta", "Anos90", "Arcade", "Capcom"],
+      "pioneiro": true,
+      "frase": "Popularizou os duelos competitivos de um contra um.",
+      "icone": "joystick",
+      "imagem": ""
+    },
+    {
+      "id": "wolfenstein-3d",
+      "titulo": "Wolfenstein 3D",
+      "ano": 1992,
+      "era": "quarta",
+      "genero": "Tiro em primeira pessoa",
+      "empresa": "id Software",
+      "sinopse": "Considerado o primeiro jogo de tiro em primeira pessoa, renderizava o mundo rápido o bastante para acompanhar os movimentos do jogador. Foi distribuído em shareware.",
+      "mecanicas": [
+        "Visão em primeira pessoa",
+        "3D em tempo real no PC",
+        "Distribuição em shareware"
+      ],
+      "curiosidade": "Os mapas eram restritos a um único nível plano. As melhorias vieram com Ultima Underworld e Doom.",
+      "tags": ["FPS", "Anos90", "PC", "idSoftware"],
+      "pioneiro": true,
+      "frase": "Considerado o primeiro jogo de tiro em primeira pessoa.",
+      "icone": "mira",
+      "imagem": ""
+    },
+    {
+      "id": "doom",
+      "titulo": "Doom",
+      "ano": 1993,
+      "era": "quinta",
+      "genero": "Tiro em primeira pessoa",
+      "empresa": "id Software",
+      "sinopse": "Evolução de Wolfenstein 3D, trouxe efeitos de iluminação e um motor que separava conteúdo, jogabilidade e renderização. A id licenciou o motor para outras empresas.",
+      "mecanicas": [
+        "Iluminação e mapas mais elaborados",
+        "Motor de jogo licenciável",
+        "Partidas em rede"
+      ],
+      "curiosidade": "Até por volta de 2000, o gênero de tiro em primeira pessoa era chamado de “clones de Doom”.",
+      "tags": ["FPS", "Anos90", "PC", "Shareware"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "mira",
+      "imagem": ""
+    },
+    {
+      "id": "myst",
+      "titulo": "Myst",
+      "ano": 1993,
+      "era": "quinta",
+      "genero": "Aventura",
+      "empresa": "Cyan",
+      "sinopse": "Aventura de quebra-cabeças com cenas pré-renderizadas e vídeo, em CD-ROM. Junto com The 7th Guest, ajudou a padronizar o CD-ROM nos PCs.",
+      "mecanicas": [
+        "Exploração de cenas pré-renderizadas",
+        "Vídeo em movimento entre as cenas",
+        "Quebra-cabeças no cenário"
+      ],
+      "curiosidade": "Foi o jogo de computador mais vendido até ser superado por The Sims.",
+      "tags": ["Aventura", "Anos90", "PC", "CDROM"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "disco",
+      "imagem": ""
+    },
+    {
+      "id": "virtua-fighter",
+      "titulo": "Virtua Fighter",
+      "ano": 1993,
+      "era": "quinta",
+      "genero": "Luta 3D",
+      "empresa": "Sega AM2 (Yu Suzuki)",
+      "sinopse": "Junto com Virtua Racing (1992), popularizou o 3D poligonal em tempo real nos arcades, rodando na placa Sega Model 1.",
+      "mecanicas": [
+        "Lutadores poligonais em 3D",
+        "Gráficos em tempo real",
+        "Luta de um contra um em arena 3D"
+      ],
+      "curiosidade": "Funcionários da Sony citam Virtua Fighter como inspiração para o hardware 3D do PlayStation.",
+      "tags": ["Luta", "Anos90", "Arcade", "3D", "Sega"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "cubo",
+      "imagem": ""
+    },
+    {
+      "id": "super-mario-64",
+      "titulo": "Super Mario 64",
+      "ano": 1996,
+      "era": "quinta",
+      "genero": "Plataforma 3D",
+      "empresa": "Nintendo",
+      "sinopse": "A estreia de Mario em 3D no Nintendo 64, com movimentação livre pelas fases e câmera controlável.",
+      "mecanicas": [
+        "Movimentação analógica em 3D",
+        "Câmera controlada pelo jogador",
+        "Fases como mundos para explorar"
+      ],
+      "curiosidade": "O Nintendo 64 manteve o cartucho ROM, enquanto o PlayStation apostou no CD-ROM.",
+      "tags": ["Plataforma", "Anos90", "Nintendo", "3D"],
+      "pioneiro": true,
+      "frase": "Definiu a movimentação e a câmera em 3D.",
+      "icone": "cubo",
+      "imagem": ""
+    },
+    {
+      "id": "goldeneye",
+      "titulo": "GoldenEye 007",
+      "ano": 1997,
+      "era": "quinta",
+      "genero": "Tiro em primeira pessoa",
+      "empresa": "Rare",
+      "sinopse": "O primeiro jogo de tiro em primeira pessoa de console a trazer recursos essenciais do gênero, no Nintendo 64.",
+      "mecanicas": [
+        "Tiro em primeira pessoa adaptado ao controle",
+        "Missões com objetivos",
+        "Multiplayer local"
+      ],
+      "curiosidade": "Foi um dos grandes sucessos de crítica da Nintendo no N64, ao lado de Ocarina of Time.",
+      "tags": ["FPS", "Anos90", "Nintendo64"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "gamepad",
+      "imagem": ""
+    },
+    {
+      "id": "final-fantasy-vii",
+      "titulo": "Final Fantasy VII",
+      "ano": 1997,
+      "era": "quinta",
+      "genero": "RPG",
+      "empresa": "Square (Squaresoft)",
+      "sinopse": "RPG que levou a série aos modelos 3D e ao CD-ROM do PlayStation, com cenas pré-renderizadas. Apresentou o RPG a muita gente que jogava no console.",
+      "mecanicas": [
+        "Personagens 3D e cenas pré-renderizadas",
+        "Distribuição em CD-ROM",
+        "RPG japonês para o público de console"
+      ],
+      "curiosidade": "A produção custou cerca de US$ 40–45 milhões, sem contar o marketing.",
+      "tags": ["RPG", "Anos90", "PlayStation", "CDROM"],
+      "pioneiro": true,
+      "frase": "Levou o RPG ao grande público do console.",
+      "icone": "espada",
+      "imagem": ""
+    },
+    {
+      "id": "ocarina-of-time",
+      "titulo": "Zelda: Ocarina of Time",
+      "ano": 1998,
+      "era": "quinta",
+      "genero": "Aventura",
+      "empresa": "Nintendo",
+      "sinopse": "Aventura em 3D do Nintendo 64, considerada um dos jogos mais aclamados pela crítica de todos os tempos.",
+      "mecanicas": [
+        "Aventura em um mundo 3D",
+        "Combate com foco em alvo",
+        "Música como parte da jogabilidade"
+      ],
+      "curiosidade": "Foi lançado em cartucho ROM, formato que a Nintendo manteve no N64.",
+      "tags": ["Aventura", "Anos90", "Nintendo", "3D"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "nota",
+      "imagem": ""
+    },
+    {
+      "id": "counter-strike",
+      "titulo": "Counter-Strike",
+      "ano": 1999,
+      "era": "sexta",
+      "genero": "Tiro em primeira pessoa online",
+      "empresa": "Minh Le e Jess Cliffe (mod de Half-Life)",
+      "sinopse": "Começou como um mod de Half-Life feito por dois programadores independentes e virou um dos jogos de tiro online mais populares.",
+      "mecanicas": [
+        "Partidas online em equipes",
+        "Mod criado pela comunidade",
+        "Rodadas com objetivos"
+      ],
+      "curiosidade": "Os mods começaram na era de Wolfenstein 3D e Doom. Depois, as empresas passaram a incentivá-los.",
+      "tags": ["FPS", "Anos90", "Online", "Mod"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "mira",
+      "imagem": ""
+    },
+    {
+      "id": "world-of-warcraft",
+      "titulo": "World of Warcraft",
+      "ano": 2004,
+      "era": "sexta",
+      "genero": "MMORPG",
+      "empresa": "Blizzard Entertainment",
+      "sinopse": "Um dos MMORPGs de maior sucesso, jogado online por assinatura em um mundo compartilhado.",
+      "mecanicas": [
+        "Mundo online persistente",
+        "Muitos jogadores no mesmo mundo",
+        "Modelo de assinatura"
+      ],
+      "curiosidade": "A banda larga acessível fez muitas editoras apostarem em jogos online nos anos 2000.",
+      "tags": ["MMORPG", "Anos2000", "Online", "PC"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "mundo",
+      "imagem": ""
+    },
+    {
+      "id": "guitar-hero",
+      "titulo": "Guitar Hero",
+      "ano": 2005,
+      "era": "sexta",
+      "genero": "Ritmo",
+      "empresa": "Harmonix e RedOctane",
+      "sinopse": "Jogo de ritmo com controle em formato de guitarra para acertar as notas de músicas licenciadas. Lançado em 2005 para o PS2.",
+      "mecanicas": [
+        "Controle em formato de instrumento",
+        "Notas sincronizadas com a música",
+        "Músicas licenciadas"
+      ],
+      "curiosidade": "Os jogos de ritmo chegaram a 18% do mercado em 2008, mas o mercado caiu 50% em 2009.",
+      "tags": ["Ritmo", "Anos2000", "PlayStation2", "Música"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "nota",
+      "imagem": ""
+    },
+    {
+      "id": "wii-sports",
+      "titulo": "Wii Sports",
+      "ano": 2006,
+      "era": "setima",
+      "genero": "Esporte",
+      "empresa": "Nintendo",
+      "sinopse": "Jogo de esportes que mostrou o que o Wii Remote sabia fazer. Foi sucesso instantâneo e atraiu jogadores não tradicionais.",
+      "mecanicas": [
+        "Controle por movimento",
+        "Esportes fáceis de aprender",
+        "Jogo para toda a família"
+      ],
+      "curiosidade": "O sucesso dos controles de movimento do Wii levou a Microsoft e a Sony a criarem o Kinect e o PlayStation Move.",
+      "tags": ["Esporte", "Anos2000", "Nintendo", "Wii"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "movimento",
+      "imagem": ""
+    },
+    {
+      "id": "angry-birds",
+      "titulo": "Angry Birds",
+      "ano": 2009,
+      "era": "setima",
+      "genero": "Quebra-cabeça casual",
+      "empresa": "Rovio",
+      "sinopse": "Jogo casual para celular que fez sucesso logo no início das lojas de aplicativos.",
+      "mecanicas": [
+        "Lançar pássaros com um toque",
+        "Física e destruição de estruturas",
+        "Fases curtas para jogar a qualquer hora"
+      ],
+      "curiosidade": "Foi inspirado diretamente em Crush the Castle, um jogo feito em Flash.",
+      "tags": ["Casual", "Anos2000", "Mobile", "Smartphone"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "celular",
+      "imagem": ""
+    },
+    {
+      "id": "minecraft",
+      "titulo": "Minecraft",
+      "ano": 2009,
+      "era": "setima",
+      "genero": "Sandbox",
+      "empresa": "Mojang (Markus Persson)",
+      "sinopse": "Jogo de construção e exploração em um mundo de blocos. Seu sucesso em 2009 mostrou que vender o acesso antecipado era viável.",
+      "mecanicas": [
+        "Construir e explorar mundos de blocos",
+        "Liberdade total (sandbox)",
+        "Venda em acesso antecipado"
+      ],
+      "curiosidade": "Os jogos independentes ganharam força nos anos 2010 com a distribuição digital, o financiamento coletivo e casos como o de Minecraft.",
+      "tags": ["Sandbox", "Anos2000", "Indie", "Construção"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "cubo",
+      "imagem": ""
+    },
+    {
+      "id": "pokemon-go",
+      "titulo": "Pokémon Go",
+      "ano": 2016,
+      "era": "oitava",
+      "genero": "Realidade aumentada",
+      "empresa": "Niantic",
+      "sinopse": "Aplicativo que une realidade aumentada e jogo baseado em localização. O jogador procura e captura Pokémon virtuais pela câmera do celular.",
+      "mecanicas": [
+        "Realidade aumentada sobre a câmera",
+        "Jogo baseado em localização",
+        "Caminhar para encontrar criaturas"
+      ],
+      "curiosidade": "Os jogos de realidade aumentada decolaram com o lançamento de Pokémon Go, em 2016.",
+      "tags": ["RealidadeAumentada", "Anos2010", "Mobile", "Localização"],
+      "pioneiro": true,
+      "frase": "Levou a realidade aumentada para a rua.",
+      "icone": "pin",
+      "imagem": ""
+    },
+    {
+      "id": "fortnite",
+      "titulo": "Fortnite Battle Royale",
+      "ano": 2017,
+      "era": "oitava",
+      "genero": "Battle royale",
+      "empresa": "Epic Games",
+      "sinopse": "Mostrou como o jogo multiplataforma podia ser simples entre Xbox, Windows e celulares. Depois da Nintendo, a Sony também passou a aceitar o cross-play.",
+      "mecanicas": [
+        "Battle royale online",
+        "Jogo multiplataforma (cross-play)",
+        "Gratuito, com compras dentro do jogo"
+      ],
+      "curiosidade": "Em 2018, a Sony concordou em permitir cross-play em jogos selecionados, como Fortnite.",
+      "tags": ["BattleRoyale", "Anos2010", "Multiplayer", "CrossPlay"],
+      "pioneiro": true,
+      "frase": "Derrubou as barreiras entre plataformas.",
+      "icone": "trofeu",
+      "imagem": ""
+    },
+    {
+      "id": "half-life-alyx",
+      "titulo": "Half-Life: Alyx",
+      "ano": 2020,
+      "era": "nona",
+      "genero": "Tiro em realidade virtual",
+      "empresa": "Valve",
+      "sinopse": "O “aplicativo matador” da realidade virtual: integra um jogo de tiro em primeira pessoa à RV e impulsionou as vendas do Valve Index.",
+      "mecanicas": [
+        "Tiro em primeira pessoa em RV",
+        "Interação com objetos usando as mãos",
+        "Impulsionou as vendas do Valve Index"
+      ],
+      "curiosidade": "A RV para jogos já era alvo desde os anos 1990, mas o custo alto atrasou tudo. O Virtual Boy, de 1996, foi um fracasso comercial.",
+      "tags": ["RV", "Anos2020", "FPS", "PC"],
+      "pioneiro": false,
+      "frase": "",
+      "icone": "vr",
+      "imagem": ""
+    }
+  ]
+}

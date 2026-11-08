@@ -1,0 +1,2 @@
+Coloque aqui as capas dos jogos e as fotos dos consoles.
+Depois informe o caminho no campo "imagem" do data/games.json (veja o README.md).
