@@ -45,7 +45,7 @@ git clone https://github.com/kaiolima621-maker/WikiDeJogos.git
 Navegue até a pasta do projeto:
 
 Bash
-cd WikiDeJogos
+cd wiki-de-jogos
 
 Abra o arquivo index.html diretamente no seu navegador de preferência ou utilize uma extensão como o Live Server (no VS Code).
 
