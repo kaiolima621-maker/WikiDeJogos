@@ -41,11 +41,11 @@ Python: Script auxiliar para processamento de dados e fallbacks.
 Clone este repositório:
 
 Bash
-git clone [https://github.com/seu-usuario/wiki-de-jogos.git](https://github.com/seu-usuario/wiki-de-jogos.git)
+git clone https://github.com/kaiolima621-maker/WikiDeJogos.git
 Navegue até a pasta do projeto:
 
 Bash
-cd wiki-de-jogos
+cd WikiDeJogos
 
 Abra o arquivo index.html diretamente no seu navegador de preferência ou utilize uma extensão como o Live Server (no VS Code).
 
