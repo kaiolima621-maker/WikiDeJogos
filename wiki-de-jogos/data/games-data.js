@@ -124,7 +124,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "osciloscopio",
-      "imagem": ""
+      "imagem": "img/TennisForTwo.jpeg"
     },
     {
       "id": "spacewar",
@@ -148,7 +148,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "O primeiro videogame amplamente compartilhado nasceu nos laboratórios do MIT.",
       "icone": "foguete",
-      "imagem": ""
+      "imagem": "img/spacewar.jpeg"
     },
     {
       "id": "computer-space",
@@ -172,7 +172,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/ComputerSpace.jpeg"
     },
     {
       "id": "pong",
@@ -196,7 +196,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "O primeiro grande sucesso dos videogames de arcade.",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/PongCabinet.jpg"
     },
     {
       "id": "colossal-cave-adventure",
@@ -246,7 +246,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Vidas, recorde e ondas de inimigos: a base do arcade moderno.",
       "icone": "foguete",
-      "imagem": ""
+      "imagem": "img/spaceinvaders.jpeg"
     },
     {
       "id": "pac-man",
@@ -271,7 +271,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Personagem como estrela: nasce o mascote dos videogames.",
       "icone": "labirinto",
-      "imagem": ""
+      "imagem": "img/Pacman.webp"
     },
     {
       "id": "adventure-atari",
@@ -296,7 +296,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Um dos primeiros easter eggs e a primeira fantasia em cartucho.",
       "icone": "cartucho",
-      "imagem": ""
+      "imagem": "img/Adventure.jpg"
     },
     {
       "id": "donkey-kong",
@@ -321,7 +321,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/donkeykong.jpg"
     },
     {
       "id": "pitfall",
@@ -345,7 +345,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "plataforma",
-      "imagem": ""
+      "imagem": "img/Pitfall.jpg"
     },
     {
       "id": "super-mario-bros",
@@ -370,7 +370,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Mario vira mascote e nasce a franquia que definiu a Nintendo.",
       "icone": "plataforma",
-      "imagem": ""
+      "imagem": "img/SuperMarioBros.png"
     },
     {
       "id": "zelda",
@@ -395,7 +395,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "espada",
-      "imagem": ""
+      "imagem": "img/the-legend-of-zelda.jpg"
     },
     {
       "id": "tetris",
@@ -420,7 +420,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "quebra-cabeca",
-      "imagem": ""
+      "imagem": "img/tetris.jpg"
     },
     {
       "id": "sonic",
@@ -445,7 +445,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "raio",
-      "imagem": ""
+      "imagem": "img/SonicTheHedgehog.jpg"
     },
     {
       "id": "street-fighter-ii",
@@ -470,7 +470,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Popularizou os duelos competitivos de um contra um.",
       "icone": "joystick",
-      "imagem": ""
+      "imagem": "img/StreetFighter2.jpg"
     },
     {
       "id": "wolfenstein-3d",
@@ -495,7 +495,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Considerado o primeiro jogo de tiro em primeira pessoa.",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/Wolfenstein-3d.jpg"
     },
     {
       "id": "doom",
@@ -520,7 +520,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/doom.jpg"
     },
     {
       "id": "myst",
@@ -545,7 +545,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "disco",
-      "imagem": ""
+      "imagem": "img/Myst.jpeg"
     },
     {
       "id": "virtua-fighter",
@@ -571,7 +571,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/VirtuaFighter.jpg"
     },
     {
       "id": "super-mario-64",
@@ -596,7 +596,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Definiu a movimentação e a câmera em 3D.",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/supermario64.jpg"
     },
     {
       "id": "goldeneye",
@@ -620,7 +620,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "gamepad",
-      "imagem": ""
+      "imagem": "img/goldeneye-007.jpg"
     },
     {
       "id": "final-fantasy-vii",
@@ -645,7 +645,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Levou o RPG ao grande público do console.",
       "icone": "espada",
-      "imagem": ""
+      "imagem": "img/FinalFantasyVii.jpg"
     },
     {
       "id": "ocarina-of-time",
@@ -670,7 +670,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "nota",
-      "imagem": ""
+      "imagem": "img/the-legend-of-zelda-ocarina-of-time.jpg"
     },
     {
       "id": "counter-strike",
@@ -695,7 +695,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/CS.jpeg"
     },
     {
       "id": "world-of-warcraft",
@@ -720,7 +720,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "mundo",
-      "imagem": ""
+      "imagem": "img/WoW.webp"
     },
     {
       "id": "guitar-hero",
@@ -745,7 +745,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "nota",
-      "imagem": ""
+      "imagem": "img/guitarhero.jpg"
     },
     {
       "id": "wii-sports",
@@ -770,7 +770,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "movimento",
-      "imagem": ""
+      "imagem": "img/WiiSports.jpg"
     },
     {
       "id": "angry-birds",
@@ -795,7 +795,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "celular",
-      "imagem": ""
+      "imagem": "img/AngryBirds.jpg"
     },
     {
       "id": "minecraft",
@@ -820,7 +820,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/Minecraft.jpg"
     },
     {
       "id": "pokemon-go",
@@ -845,7 +845,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Levou a realidade aumentada para a rua.",
       "icone": "pin",
-      "imagem": ""
+      "imagem": "img/Pokemon.jpeg"
     },
     {
       "id": "fortnite",
@@ -870,7 +870,7 @@ window.WIKI_DB = {
       "pioneiro": true,
       "frase": "Derrubou as barreiras entre plataformas.",
       "icone": "trofeu",
-      "imagem": ""
+      "imagem": "img/Fortnite.jpeg"
     },
     {
       "id": "half-life-alyx",
@@ -895,7 +895,7 @@ window.WIKI_DB = {
       "pioneiro": false,
       "frase": "",
       "icone": "vr",
-      "imagem": ""
+      "imagem": "img/Half-Life.jpeg"
     }
   ]
 };
