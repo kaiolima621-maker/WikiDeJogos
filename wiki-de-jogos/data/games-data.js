@@ -105,6 +105,7 @@ window.WIKI_DB = {
     {
       "id": "tennis-for-two",
       "titulo": "Tennis for Two",
+      "jogarOnline": "",
       "ano": 1958,
       "era": "primordios",
       "genero": "Esporte",
@@ -129,6 +130,7 @@ window.WIKI_DB = {
     {
       "id": "spacewar",
       "titulo": "Spacewar!",
+      "jogarOnline": "",
       "ano": 1962,
       "era": "primordios",
       "genero": "Combate espacial",
@@ -153,6 +155,7 @@ window.WIKI_DB = {
     {
       "id": "computer-space",
       "titulo": "Computer Space",
+      "jogarOnline": "",
       "ano": 1971,
       "era": "primordios",
       "genero": "Combate espacial",
@@ -177,6 +180,7 @@ window.WIKI_DB = {
     {
       "id": "pong",
       "titulo": "Pong",
+      "jogarOnline": "",
       "ano": 1972,
       "era": "primeira",
       "genero": "Esporte",
@@ -201,6 +205,7 @@ window.WIKI_DB = {
     {
       "id": "colossal-cave-adventure",
       "titulo": "Colossal Cave Adventure",
+      "jogarOnline": "",
       "ano": 1976,
       "era": "primeira",
       "genero": "Aventura em texto",
@@ -225,6 +230,7 @@ window.WIKI_DB = {
     {
       "id": "space-invaders",
       "titulo": "Space Invaders",
+      "jogarOnline": "",
       "ano": 1978,
       "era": "segunda",
       "genero": "Tiro",
@@ -251,6 +257,7 @@ window.WIKI_DB = {
     {
       "id": "pac-man",
       "titulo": "Pac-Man",
+      "jogarOnline": "",
       "ano": 1980,
       "era": "segunda",
       "genero": "Labirinto",
@@ -276,6 +283,7 @@ window.WIKI_DB = {
     {
       "id": "adventure-atari",
       "titulo": "Adventure (Atari)",
+      "jogarOnline": "",
       "ano": 1980,
       "era": "segunda",
       "genero": "Aventura de ação",
@@ -301,6 +309,7 @@ window.WIKI_DB = {
     {
       "id": "donkey-kong",
       "titulo": "Donkey Kong",
+      "jogarOnline": "",
       "ano": 1981,
       "era": "segunda",
       "genero": "Plataforma",
@@ -326,6 +335,7 @@ window.WIKI_DB = {
     {
       "id": "pitfall",
       "titulo": "Pitfall!",
+      "jogarOnline": "",
       "ano": 1982,
       "era": "segunda",
       "genero": "Plataforma",
@@ -350,6 +360,7 @@ window.WIKI_DB = {
     {
       "id": "super-mario-bros",
       "titulo": "Super Mario Bros.",
+      "jogarOnline": "",
       "ano": 1985,
       "era": "terceira",
       "genero": "Plataforma",
@@ -375,6 +386,7 @@ window.WIKI_DB = {
     {
       "id": "zelda",
       "titulo": "The Legend of Zelda",
+      "jogarOnline": "",
       "ano": 1986,
       "era": "terceira",
       "genero": "Aventura",
@@ -400,6 +412,7 @@ window.WIKI_DB = {
     {
       "id": "tetris",
       "titulo": "Tetris (Game Boy)",
+      "jogarOnline": "",
       "ano": 1989,
       "era": "quarta",
       "genero": "Quebra-cabeça",
@@ -425,6 +438,7 @@ window.WIKI_DB = {
     {
       "id": "sonic",
       "titulo": "Sonic the Hedgehog",
+      "jogarOnline": "",
       "ano": 1991,
       "era": "quarta",
       "genero": "Plataforma",
@@ -450,6 +464,7 @@ window.WIKI_DB = {
     {
       "id": "street-fighter-ii",
       "titulo": "Street Fighter II",
+      "jogarOnline": "",
       "ano": 1991,
       "era": "quarta",
       "genero": "Luta",
@@ -475,6 +490,7 @@ window.WIKI_DB = {
     {
       "id": "wolfenstein-3d",
       "titulo": "Wolfenstein 3D",
+      "jogarOnline": "",
       "ano": 1992,
       "era": "quarta",
       "genero": "Tiro em primeira pessoa",
@@ -500,6 +516,7 @@ window.WIKI_DB = {
     {
       "id": "doom",
       "titulo": "Doom",
+      "jogarOnline": "",
       "ano": 1993,
       "era": "quinta",
       "genero": "Tiro em primeira pessoa",
@@ -525,6 +542,7 @@ window.WIKI_DB = {
     {
       "id": "myst",
       "titulo": "Myst",
+      "jogarOnline": "",
       "ano": 1993,
       "era": "quinta",
       "genero": "Aventura",
@@ -550,6 +568,7 @@ window.WIKI_DB = {
     {
       "id": "virtua-fighter",
       "titulo": "Virtua Fighter",
+      "jogarOnline": "",
       "ano": 1993,
       "era": "quinta",
       "genero": "Luta 3D",
@@ -576,6 +595,7 @@ window.WIKI_DB = {
     {
       "id": "super-mario-64",
       "titulo": "Super Mario 64",
+      "jogarOnline": "",
       "ano": 1996,
       "era": "quinta",
       "genero": "Plataforma 3D",
@@ -601,6 +621,7 @@ window.WIKI_DB = {
     {
       "id": "goldeneye",
       "titulo": "GoldenEye 007",
+      "jogarOnline": "",
       "ano": 1997,
       "era": "quinta",
       "genero": "Tiro em primeira pessoa",
@@ -625,6 +646,7 @@ window.WIKI_DB = {
     {
       "id": "final-fantasy-vii",
       "titulo": "Final Fantasy VII",
+      "jogarOnline": "",
       "ano": 1997,
       "era": "quinta",
       "genero": "RPG",
@@ -650,6 +672,7 @@ window.WIKI_DB = {
     {
       "id": "ocarina-of-time",
       "titulo": "Zelda: Ocarina of Time",
+      "jogarOnline": "",
       "ano": 1998,
       "era": "quinta",
       "genero": "Aventura",
@@ -675,6 +698,7 @@ window.WIKI_DB = {
     {
       "id": "counter-strike",
       "titulo": "Counter-Strike",
+      "jogarOnline": "",
       "ano": 1999,
       "era": "sexta",
       "genero": "Tiro em primeira pessoa online",
@@ -700,6 +724,7 @@ window.WIKI_DB = {
     {
       "id": "world-of-warcraft",
       "titulo": "World of Warcraft",
+      "jogarOnline": "",
       "ano": 2004,
       "era": "sexta",
       "genero": "MMORPG",
@@ -725,6 +750,7 @@ window.WIKI_DB = {
     {
       "id": "guitar-hero",
       "titulo": "Guitar Hero",
+      "jogarOnline": "",
       "ano": 2005,
       "era": "sexta",
       "genero": "Ritmo",
@@ -750,6 +776,7 @@ window.WIKI_DB = {
     {
       "id": "wii-sports",
       "titulo": "Wii Sports",
+      "jogarOnline": "",
       "ano": 2006,
       "era": "setima",
       "genero": "Esporte",
@@ -775,6 +802,7 @@ window.WIKI_DB = {
     {
       "id": "angry-birds",
       "titulo": "Angry Birds",
+      "jogarOnline": "",
       "ano": 2009,
       "era": "setima",
       "genero": "Quebra-cabeça casual",
@@ -800,6 +828,7 @@ window.WIKI_DB = {
     {
       "id": "minecraft",
       "titulo": "Minecraft",
+      "jogarOnline": "",
       "ano": 2009,
       "era": "setima",
       "genero": "Sandbox",
@@ -825,6 +854,7 @@ window.WIKI_DB = {
     {
       "id": "pokemon-go",
       "titulo": "Pokémon Go",
+      "jogarOnline": "",
       "ano": 2016,
       "era": "oitava",
       "genero": "Realidade aumentada",
@@ -850,6 +880,7 @@ window.WIKI_DB = {
     {
       "id": "fortnite",
       "titulo": "Fortnite Battle Royale",
+      "jogarOnline": "",
       "ano": 2017,
       "era": "oitava",
       "genero": "Battle royale",
@@ -875,6 +906,7 @@ window.WIKI_DB = {
     {
       "id": "half-life-alyx",
       "titulo": "Half-Life: Alyx",
+      "jogarOnline": "",
       "ano": 2020,
       "era": "nona",
       "genero": "Tiro em realidade virtual",

@@ -135,6 +135,7 @@
       j._era = era;
       j.tags = j.tags || [];
       j.mecanicas = j.mecanicas || [];
+      j.jogarOnline = j.jogarOnline || '';
       j._titulo = norm(j.titulo);
       j._tags = norm(j.tags.join(' '));
       j._busca = norm([j.titulo, j.ano, j.empresa, j.genero, j.sinopse, era.nome, era.anos, j.tags.join(' '), j.mecanicas.join(' ')].join(' '));
@@ -413,6 +414,13 @@
         <section class="secao sabia" aria-labelledby="h-sabia">
           <h2 id="h-sabia">VOCÊ SABIA?</h2>
           <ul><li>${esc(j.curiosidade)}</li></ul>
+        </section>
+
+        <section class="secao" aria-labelledby="h-jogar">
+          <h2 id="h-jogar">Jogue no navegador</h2>
+          ${/^https?:\/\//i.test(j.jogarOnline)
+            ? `<div class="jogar"><p>Este jogo tem uma versão para jogar online.</p><a class="btn" href="${esc(j.jogarOnline)}" target="_blank" rel="noopener noreferrer">Jogar agora ↗</a></div>`
+            : '<div class="jogar vazio"><p>Link para jogar ainda não cadastrado.</p></div>'}
         </section>
 
         <section class="secao" aria-labelledby="h-tags-jogo">

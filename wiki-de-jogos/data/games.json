@@ -105,6 +105,7 @@
     {
       "id": "tennis-for-two",
       "titulo": "Tennis for Two",
+      "jogarOnline": "",
       "ano": 1958,
       "era": "primordios",
       "genero": "Esporte",
@@ -125,6 +126,7 @@
     {
       "id": "spacewar",
       "titulo": "Spacewar!",
+      "jogarOnline": "",
       "ano": 1962,
       "era": "primordios",
       "genero": "Combate espacial",
@@ -145,6 +147,7 @@
     {
       "id": "computer-space",
       "titulo": "Computer Space",
+      "jogarOnline": "",
       "ano": 1971,
       "era": "primordios",
       "genero": "Combate espacial",
@@ -165,6 +168,7 @@
     {
       "id": "pong",
       "titulo": "Pong",
+      "jogarOnline": "https://daverix.net/projects/pong/",
       "ano": 1972,
       "era": "primeira",
       "genero": "Esporte",
@@ -185,6 +189,7 @@
     {
       "id": "colossal-cave-adventure",
       "titulo": "Colossal Cave Adventure",
+      "jogarOnline": "",
       "ano": 1976,
       "era": "primeira",
       "genero": "Aventura em texto",
@@ -205,6 +210,7 @@
     {
       "id": "space-invaders",
       "titulo": "Space Invaders",
+      "jogarOnline": "https://archive.org/details/msdos_SpaceInvaders",
       "ano": 1978,
       "era": "segunda",
       "genero": "Tiro",
@@ -226,6 +232,7 @@
     {
       "id": "pac-man",
       "titulo": "Pac-Man",
+      "jogarOnline": "https://freepacman.org/",
       "ano": 1980,
       "era": "segunda",
       "genero": "Labirinto",
@@ -246,6 +253,7 @@
     {
       "id": "adventure-atari",
       "titulo": "Adventure (Atari)",
+      "jogarOnline": "",
       "ano": 1980,
       "era": "segunda",
       "genero": "Aventura de ação",
@@ -266,6 +274,7 @@
     {
       "id": "donkey-kong",
       "titulo": "Donkey Kong",
+      "jogarOnline": "https://archive.org/details/donkey-kong_202304",
       "ano": 1981,
       "era": "segunda",
       "genero": "Plataforma",
@@ -286,6 +295,7 @@
     {
       "id": "pitfall",
       "titulo": "Pitfall!",
+      "jogarOnline": "https://archive.org/details/Pitfall_Activision_1982",
       "ano": 1982,
       "era": "segunda",
       "genero": "Plataforma",
@@ -306,6 +316,7 @@
     {
       "id": "super-mario-bros",
       "titulo": "Super Mario Bros.",
+      "jogarOnline": "",
       "ano": 1985,
       "era": "terceira",
       "genero": "Plataforma",
@@ -326,6 +337,7 @@
     {
       "id": "zelda",
       "titulo": "The Legend of Zelda",
+      "jogarOnline": "",
       "ano": 1986,
       "era": "terceira",
       "genero": "Aventura",
@@ -346,6 +358,7 @@
     {
       "id": "tetris",
       "titulo": "Tetris (Game Boy)",
+      "jogarOnline": "https://play.tetris.com/",
       "ano": 1989,
       "era": "quarta",
       "genero": "Quebra-cabeça",
@@ -366,6 +379,7 @@
     {
       "id": "sonic",
       "titulo": "Sonic the Hedgehog",
+      "jogarOnline": "",
       "ano": 1991,
       "era": "quarta",
       "genero": "Plataforma",
@@ -386,6 +400,7 @@
     {
       "id": "street-fighter-ii",
       "titulo": "Street Fighter II",
+      "jogarOnline": "https://archive.org/details/sf2_snes",
       "ano": 1991,
       "era": "quarta",
       "genero": "Luta",
@@ -406,6 +421,7 @@
     {
       "id": "wolfenstein-3d",
       "titulo": "Wolfenstein 3D",
+      "jogarOnline": "https://archive.org/details/msdos_Wolfenstein_3D_1992",
       "ano": 1992,
       "era": "quarta",
       "genero": "Tiro em primeira pessoa",
@@ -426,6 +442,7 @@
     {
       "id": "doom",
       "titulo": "Doom",
+      "jogarOnline": "https://archive.org/details/doom_dos",
       "ano": 1993,
       "era": "quinta",
       "genero": "Tiro em primeira pessoa",
@@ -446,6 +463,7 @@
     {
       "id": "myst",
       "titulo": "Myst",
+      "jogarOnline": "",
       "ano": 1993,
       "era": "quinta",
       "genero": "Aventura",
@@ -466,6 +484,7 @@
     {
       "id": "virtua-fighter",
       "titulo": "Virtua Fighter",
+      "jogarOnline": "",
       "ano": 1993,
       "era": "quinta",
       "genero": "Luta 3D",
@@ -486,6 +505,7 @@
     {
       "id": "super-mario-64",
       "titulo": "Super Mario 64",
+      "jogarOnline": "",
       "ano": 1996,
       "era": "quinta",
       "genero": "Plataforma 3D",
@@ -506,6 +526,7 @@
     {
       "id": "goldeneye",
       "titulo": "GoldenEye 007",
+      "jogarOnline": "",
       "ano": 1997,
       "era": "quinta",
       "genero": "Tiro em primeira pessoa",
@@ -526,6 +547,7 @@
     {
       "id": "final-fantasy-vii",
       "titulo": "Final Fantasy VII",
+      "jogarOnline": "",
       "ano": 1997,
       "era": "quinta",
       "genero": "RPG",
@@ -546,6 +568,7 @@
     {
       "id": "ocarina-of-time",
       "titulo": "Zelda: Ocarina of Time",
+      "jogarOnline": "",
       "ano": 1998,
       "era": "quinta",
       "genero": "Aventura",
@@ -566,6 +589,7 @@
     {
       "id": "counter-strike",
       "titulo": "Counter-Strike",
+      "jogarOnline": "",
       "ano": 1999,
       "era": "sexta",
       "genero": "Tiro em primeira pessoa online",
@@ -586,6 +610,7 @@
     {
       "id": "world-of-warcraft",
       "titulo": "World of Warcraft",
+      "jogarOnline": "",
       "ano": 2004,
       "era": "sexta",
       "genero": "MMORPG",
@@ -606,6 +631,7 @@
     {
       "id": "guitar-hero",
       "titulo": "Guitar Hero",
+      "jogarOnline": "",
       "ano": 2005,
       "era": "sexta",
       "genero": "Ritmo",
@@ -626,6 +652,7 @@
     {
       "id": "wii-sports",
       "titulo": "Wii Sports",
+      "jogarOnline": "",
       "ano": 2006,
       "era": "setima",
       "genero": "Esporte",
@@ -646,6 +673,7 @@
     {
       "id": "angry-birds",
       "titulo": "Angry Birds",
+      "jogarOnline": "",
       "ano": 2009,
       "era": "setima",
       "genero": "Quebra-cabeça casual",
@@ -666,6 +694,7 @@
     {
       "id": "minecraft",
       "titulo": "Minecraft",
+      "jogarOnline": "https://classic.minecraft.net/",
       "ano": 2009,
       "era": "setima",
       "genero": "Sandbox",
@@ -686,6 +715,7 @@
     {
       "id": "pokemon-go",
       "titulo": "Pokémon Go",
+      "jogarOnline": "",
       "ano": 2016,
       "era": "oitava",
       "genero": "Realidade aumentada",
@@ -706,6 +736,7 @@
     {
       "id": "fortnite",
       "titulo": "Fortnite Battle Royale",
+      "jogarOnline": "",
       "ano": 2017,
       "era": "oitava",
       "genero": "Battle royale",
@@ -726,6 +757,7 @@
     {
       "id": "half-life-alyx",
       "titulo": "Half-Life: Alyx",
+      "jogarOnline": "",
       "ano": 2020,
       "era": "nona",
       "genero": "Tiro em realidade virtual",
