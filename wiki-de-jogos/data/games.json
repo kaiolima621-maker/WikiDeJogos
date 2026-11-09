@@ -120,7 +120,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "osciloscopio",
-      "imagem": ""
+      "imagem": "img/TennisForTwo.jpeg"
     },
     {
       "id": "spacewar",
@@ -140,7 +140,7 @@
       "pioneiro": true,
       "frase": "O primeiro videogame amplamente compartilhado nasceu nos laboratórios do MIT.",
       "icone": "foguete",
-      "imagem": ""
+      "imagem": "img/spacewar.jpeg"
     },
     {
       "id": "computer-space",
@@ -160,7 +160,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/ComputerSpace.jpeg"
     },
     {
       "id": "pong",
@@ -180,7 +180,7 @@
       "pioneiro": true,
       "frase": "O primeiro grande sucesso dos videogames de arcade.",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/PongCabinet.jpg"
     },
     {
       "id": "colossal-cave-adventure",
@@ -221,7 +221,7 @@
       "pioneiro": true,
       "frase": "Vidas, recorde e ondas de inimigos: a base do arcade moderno.",
       "icone": "foguete",
-      "imagem": ""
+      "imagem": "img/spaceinvaders.jpeg"
     },
     {
       "id": "pac-man",
@@ -241,7 +241,7 @@
       "pioneiro": true,
       "frase": "Personagem como estrela: nasce o mascote dos videogames.",
       "icone": "labirinto",
-      "imagem": ""
+      "imagem": "img/Pacman.webp"
     },
     {
       "id": "adventure-atari",
@@ -261,7 +261,7 @@
       "pioneiro": true,
       "frase": "Um dos primeiros easter eggs e a primeira fantasia em cartucho.",
       "icone": "cartucho",
-      "imagem": ""
+      "imagem": "img/Adventure.jpg"
     },
     {
       "id": "donkey-kong",
@@ -281,7 +281,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "arcade",
-      "imagem": ""
+      "imagem": "img/donkeykong.jpg"
     },
     {
       "id": "pitfall",
@@ -301,7 +301,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "plataforma",
-      "imagem": ""
+      "imagem": "img/Pitfall.jpg"
     },
     {
       "id": "super-mario-bros",
@@ -321,7 +321,7 @@
       "pioneiro": true,
       "frase": "Mario vira mascote e nasce a franquia que definiu a Nintendo.",
       "icone": "plataforma",
-      "imagem": ""
+      "imagem": "img/SuperMarioBros.png"
     },
     {
       "id": "zelda",
@@ -341,7 +341,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "espada",
-      "imagem": ""
+      "imagem": "img/the-legend-of-zelda.jpg"
     },
     {
       "id": "tetris",
@@ -361,7 +361,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "quebra-cabeca",
-      "imagem": ""
+      "imagem": "img/tetris.jpg"
     },
     {
       "id": "sonic",
@@ -381,7 +381,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "raio",
-      "imagem": ""
+      "imagem": "img/SonicTheHedgehog.jpg"
     },
     {
       "id": "street-fighter-ii",
@@ -401,7 +401,7 @@
       "pioneiro": true,
       "frase": "Popularizou os duelos competitivos de um contra um.",
       "icone": "joystick",
-      "imagem": ""
+      "imagem": "img/StreetFighter2.jpg"
     },
     {
       "id": "wolfenstein-3d",
@@ -421,7 +421,7 @@
       "pioneiro": true,
       "frase": "Considerado o primeiro jogo de tiro em primeira pessoa.",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/Wolfenstein-3d.jpg"
     },
     {
       "id": "doom",
@@ -441,7 +441,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/doom.jpg"
     },
     {
       "id": "myst",
@@ -461,7 +461,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "disco",
-      "imagem": ""
+      "imagem": "img/Myst.jpeg"
     },
     {
       "id": "virtua-fighter",
@@ -481,7 +481,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/VirtuaFighter.jpg"
     },
     {
       "id": "super-mario-64",
@@ -501,7 +501,7 @@
       "pioneiro": true,
       "frase": "Definiu a movimentação e a câmera em 3D.",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/supermario64.jpg"
     },
     {
       "id": "goldeneye",
@@ -521,7 +521,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "gamepad",
-      "imagem": ""
+      "imagem": "img/goldeneye-007.jpg"
     },
     {
       "id": "final-fantasy-vii",
@@ -541,7 +541,7 @@
       "pioneiro": true,
       "frase": "Levou o RPG ao grande público do console.",
       "icone": "espada",
-      "imagem": ""
+      "imagem": "img/FinalFantasyVii.jpg"
     },
     {
       "id": "ocarina-of-time",
@@ -561,7 +561,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "nota",
-      "imagem": ""
+      "imagem": "img/the-legend-of-zelda-ocarina-of-time.jpg"
     },
     {
       "id": "counter-strike",
@@ -581,7 +581,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "mira",
-      "imagem": ""
+      "imagem": "img/CS.jpeg"
     },
     {
       "id": "world-of-warcraft",
@@ -601,7 +601,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "mundo",
-      "imagem": ""
+      "imagem": "img/WoW.webp"
     },
     {
       "id": "guitar-hero",
@@ -621,7 +621,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "nota",
-      "imagem": ""
+      "imagem": "img/guitarhero.jpg"
     },
     {
       "id": "wii-sports",
@@ -641,7 +641,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "movimento",
-      "imagem": ""
+      "imagem": "img/WiiSports.jpg"
     },
     {
       "id": "angry-birds",
@@ -661,7 +661,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "celular",
-      "imagem": ""
+      "imagem": "img/AngryBirds.jpg"
     },
     {
       "id": "minecraft",
@@ -681,7 +681,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "cubo",
-      "imagem": ""
+      "imagem": "img/Minecraft.jpg"
     },
     {
       "id": "pokemon-go",
@@ -701,7 +701,7 @@
       "pioneiro": true,
       "frase": "Levou a realidade aumentada para a rua.",
       "icone": "pin",
-      "imagem": ""
+      "imagem": "img/Pokemon.jpeg"
     },
     {
       "id": "fortnite",
@@ -721,7 +721,7 @@
       "pioneiro": true,
       "frase": "Derrubou as barreiras entre plataformas.",
       "icone": "trofeu",
-      "imagem": ""
+      "imagem": "img/Fortnite.jpeg"
     },
     {
       "id": "half-life-alyx",
@@ -741,7 +741,7 @@
       "pioneiro": false,
       "frase": "",
       "icone": "vr",
-      "imagem": ""
+      "imagem": "img/Half-Life.jpeg"
     }
   ]
 }
