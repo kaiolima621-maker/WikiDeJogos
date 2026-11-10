@@ -302,7 +302,7 @@
     $('#tl-panel').innerHTML = `
       <div class="tl-visual">${consoleVisual(e)}
         <p class="legenda">Console principal: ${esc(e.console)}</p>
-        ${e.imagem ? '' : '<small>Ilustração genérica. Coloque uma foto em “imagem” no JSON.</small>'}
+        
       </div>
       <div class="tl-info">
         <p class="era-anos">${esc(e.anos)}</p>

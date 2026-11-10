@@ -13,7 +13,9 @@ Uma plataforma web interativa e leve dedicada a catalogar e exibir informações
 * **Gerenciamento de Dados:** Armazenamento estruturado utilizando arquivos JSON e JavaScript.
 * **Automação (Python):** Script utilitário para geração de fallbacks.
 
-## 📁 Estrutura do Projeto
+## 📁 Estrutura do 
+
+## 
 
 ```text
 wiki-de-jogos/
