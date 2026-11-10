@@ -1,6 +1,8 @@
 # WikiDeJogos
 Uma wiki interativa de jogos desenvolvida em HTML, CSS e JavaScript, com gerenciamento de dados em JSON e suporte a script de fallback em Python.
 
+## Link:https://kaiolima621-maker.github.io/WikiDeJogos/
+
 # 🎮 Wiki de Jogos
 
 Uma plataforma web interativa e leve dedicada a catalogar e exibir informações sobre diversos jogos. O projeto foi desenvolvido com tecnologias web modernas (HTML5, CSS3 e JavaScript vanilla) e conta com estruturação de dados em JSON e automação em Python.
